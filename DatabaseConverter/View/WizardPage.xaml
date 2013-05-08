@@ -163,7 +163,7 @@
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition SharedSizeGroup="Buttons" />
                         <ColumnDefinition SharedSizeGroup="Buttons" />
-                        <ColumnDefinition Width="15" />
+                        <ColumnDefinition Width="11" />
                         <ColumnDefinition SharedSizeGroup="Buttons" />
                     </Grid.ColumnDefinitions>
                     <Button Grid.Column="0" Grid.Row="0" Command="{Binding Path=MovePreviousCommand}" Content="Back"/>
